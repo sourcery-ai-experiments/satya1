@@ -1,0 +1,22 @@
+#one{
+    font-size: 25px;
+    line-height: 50px;
+    text-transform: uppercase;
+    /* capitalize lowercase none */
+}
+
+#two{
+    font-size: 10px;
+}
+
+#three{
+    font-size: 1px;
+}
+
+#outer{
+    font-size: 25px;
+}
+
+#inner{
+    font-size: 10px;
+}

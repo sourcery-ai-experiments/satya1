@@ -1,0 +1,34 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    /* transition-property: all;
+    transition-duration: 3s;
+    transition-timing-function: ease-in;
+    transition-delay: 2s; */
+    /* transition: all 3s ease-in 2s; */
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    /* transform: rotate(45deg); */
+    /* rotate: z 90deg; */
+   transition: all 2s ease-in;
+}
+
+div:hover{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    /* transition-timing-function: steps(5); */
+    /* transform:scale(1,2); */
+    /* rotate: z 90deg; */
+   /* transform: translateY(200px); */
+   /* transform: translate(100px,80px); */
+   transform: skew(45deg);
+}
+
+
+div:active{
+    background-color: blueviolet;
+}

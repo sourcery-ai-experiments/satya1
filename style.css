@@ -1,0 +1,46 @@
+
+        /* h1{
+            color:#ff0000;
+        }
+    
+        h2{
+            color: gray;
+        }
+
+        p{
+            color: green;
+        }
+
+        button{
+            color: brown;
+            background-color: rgb(43, 32, 32);
+        }
+
+        body{
+            background-color:rgb(43, 30, 30) ;
+        } */
+
+
+        *{
+            color: rgb(194, 18, 47);
+        }
+
+        h1{
+            color: grey;
+        }
+
+        button{
+            color: #0ecfc8;
+        }
+
+        #head2{
+            color: yellow;
+        }
+
+        #head3{
+            color: rgb(15, 201, 89);
+        }
+
+        .myclass{
+            color: magenta;
+        }

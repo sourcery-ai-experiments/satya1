@@ -1,0 +1,17 @@
+div{
+    background-color: blue;
+    color: white;
+}
+
+.heading{
+    color: red;
+    font-family: "Times New Roman";
+}
+
+h1,h2,h3{
+    color: green;
+}
+
+button{
+    background-color: plum;
+}

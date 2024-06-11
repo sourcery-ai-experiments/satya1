@@ -1,0 +1,47 @@
+#one{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50%;
+    border-color: red;
+    margin:10px;
+    border: 2px solid white;
+    
+    
+}
+
+#two{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+    border-color: yellow;
+    margin:10px;
+    border: 2px solid white;
+}
+
+
+#three{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+    border-color: green;
+    margin:10px;
+    border: 2px solid white;
+    
+}
+
+#four{
+    height: 350px;
+    border: 10px;
+    border-width: 2px;
+    border-color:white;
+    background-color: black;
+    width: 120px;
+    align-items: center;
+    padding: 10px;
+    
+}
+
+

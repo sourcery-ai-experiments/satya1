@@ -1,0 +1,39 @@
+/* display proparty */
+/* div{
+    background-color: pink;
+    display: inline;
+} */
+
+/* button{
+    display: block;
+} */
+
+
+div{
+    width: 200px;
+    height: 200px;
+    margin: 25px;
+    padding: 25px;
+    /* display: inline; */
+    display: inline-block;
+    /* display: none; */
+    /* visibility: hidden; */
+    /* background-color: rgba(255,0,0,0.5); */
+}
+
+#box2{
+    /* display: none; */
+    visibility: hidden;
+}
+
+#box1{
+    background-color: rgba(0, 255, 0, 0.25);
+}
+
+#box4{
+    background-color: rgba(0, 255, 0, 0.50);
+}
+
+#box5{
+    background-color: rgba(0, 255, 0, 1);
+}
